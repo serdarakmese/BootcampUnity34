@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: "Assets/Scenes/Ac\u0131l\u0131sSahnesi.unity"
     guid: 5c6f3cd13de9a4e4495bd0e9f3241480
   - enabled: 1
+    path: Assets/Scenes/BilgiSahnesi.unity
+    guid: 5fbb8879511e571458d90289bebaf59c
+  - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: e80fa77580286704289a7c04d881bc8f
   - enabled: 1

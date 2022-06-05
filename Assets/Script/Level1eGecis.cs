@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 using UnityEngine.InputSystem;
 using UnityEngine.EventSystems;
 
-public class sahne : MonoBehaviour
+public class Level1eGecis : MonoBehaviour
 {
     public void SahneGecis()
     {
