@@ -96,3 +96,39 @@ https://docs.google.com/document/d/1Zxe1hCajAoOhw0xpJYaY1feQHtXn9IQiJt6scM28Fps/
 - Karakter için can durumu ve saldırı fonksiyonu eklenecek.
 - Düşen varlıklar hareketlendirilecek.
 - Puanlama ve sahne bitiş aşamaları oluşturulacak. 
+# Sprint 3
+## Product Backlog URL
+https://miro.com/app/board/uXjVOwKEWws=/?share_link_id=899867787803 
+- **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint içinde tamamlanması tahmin edilen puan:** 120 Puan
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+#### Daily Scrum: 
+https://docs.google.com/document/d/1KDz31yzJbbzWbfttGOMx6lA5KPgda--Oqz0SbDEiViA/edit?usp=sharing
+- Link içinde günlük konuşma notlarımız bulunmaktadır.
+#### Sprint board screenshotları: 
+![Sprint3 (1)](https://user-images.githubusercontent.com/104379234/172233147-3ec61e65-2a15-4438-b8dc-aba30318ffb7.jpg)
+![Sprint3 (2)](https://user-images.githubusercontent.com/104379234/172233136-6b3e6e0f-b6ba-4009-8ef4-ee56c2e72ef2.jpg)
+![Sprint3 (3)](https://user-images.githubusercontent.com/104379234/172233144-8dfb34ed-ee00-453c-b224-e876fe0fcfab.jpg)
+#### Ürün Durumu: Ekran Görüntüleri:
+![IMG-20220606-WA0051](https://user-images.githubusercontent.com/104379234/172232910-9f6c3df0-ce09-421b-afff-df537423e1b0.jpg)
+![IMG-20220606-WA0052](https://user-images.githubusercontent.com/104379234/172232916-c0098d5c-90ff-4ae0-8768-0d6e7c9302b0.jpg)
+![IMG-20220606-WA0053](https://user-images.githubusercontent.com/104379234/172232896-cb800bfb-f394-40f3-ada5-b1306438ffbd.jpg)
+![IMG-20220606-WA0054](https://user-images.githubusercontent.com/104379234/172232901-624e70d9-8426-46f2-9b2c-dc549a07af95.jpg)
+![IMG-20220606-WA0048](https://user-images.githubusercontent.com/104379234/172232902-5297dfa7-db2d-4831-9ff5-c47e33c157e1.jpg)
+![IMG-20220606-WA0049](https://user-images.githubusercontent.com/104379234/172232905-166198d0-0c75-43bc-a8fa-a5a63cec4d10.jpg)
+![IMG-20220606-WA0050](https://user-images.githubusercontent.com/104379234/172232906-cc3b278e-6332-4303-a05f-fa5b18f754c3.jpg)
+#### Sprint Review: 
+- Tüm ekip süreç boyunca aktif ve katılımcı roldeydi.
+- İşbirliği içinde süreç yönetimi sağlandı.
+- Miro' da belirtilen tarihler dikkate alınarak, sorumluluklar zamanında gerçekleştirilmiştir.
+- Yeni sahneler eklendi.
+- Yeni engeller ve yollar oluşturuldu.
+- Hikaye akışına göre yeni düşman varlıklar eklendi.
+- Yeni tünel ve yer altı yapıları eklendi.
+- Karakter için can durumu ve saldırı fonksiyonu eklendi.
+- Düşen varlıklar hareketlendirildi.
+- Checkpoint ve sahne bitiş aşamaları oluşturuldu. 
+#### Sprint Retrospective: 
+- Oyunun arayüzleri, mekanikleri, sahneleri ve düşmanları yapılarak oyun tamamlanmıştır. 
