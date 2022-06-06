@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Level2Su
+  m_Name: "Level2Su bossB\xF6lgesi"
   m_Shader: {fileID: 4800000, guid: ff4f7c50660ba9b4495472673ef5af91, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -95,7 +95,7 @@ Material:
     - _DetailInt: 0.4
     - _DetailTile: 10
     - _DetailTiling: 10
-    - _Emis: 0.82
+    - _Emis: 0.78
     - _Fresnel: 1
     - _FresnelScale: 0.75
     - _GerstnerIntensity: 1
@@ -116,7 +116,7 @@ Material:
     - _Shift: 0
     - _Shininess: 0.6012862
     - _Smoothness: 1
-    - _Smth: 0.25
+    - _Smth: 0.17
     - _SpecContrast: 2
     - _SpecIntensity: 2.3
     - _Transparency: 0.95
@@ -134,7 +134,7 @@ Material:
     - _BaseColor: {r: 0.54, g: 0.95, b: 0.99, a: 0.5}
     - _BumpDirection: {r: 1, g: 1, b: -1, a: 1}
     - _BumpTiling: {r: 1, g: 1, b: -2, a: 3}
-    - _Color: {r: 0.21375237, g: 0.26415092, b: 0.19063722, a: 1}
+    - _Color: {r: 0.09074373, g: 0.23584908, b: 0.06341225, a: 1}
     - _ColorTint: {r: 0.74509805, g: 0.7023594, b: 0.5727028, a: 1}
     - _DistortParams: {r: 1, g: 1, b: 2, a: 1.15}
     - _Emission: {r: 0, g: 0, b: 0, a: 0}
