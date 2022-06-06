@@ -1,7 +1,7 @@
 # Bilgilendirme
-İlk kullandığımız repoda çıkan teknik aksaklıklardan dolayı bu repoda evam edildi. Diğer tüm commitler diğer repoda diğer repoda bulubuyor. Diğer repo linki; 
-# Takım İsm
+İlk kullandığımız repoda çıkan teknik aksaklıklardan dolayı bu repoda evam edildi. Diğer tüm commitler diğer repoda diğer repoda bulubuyor. Diğer repo linki;
 https://github.com/sedaersyy/4Strong1Emissary
+# Takım İsm
 #### 4Strong1Emissary
 # Ürün ile İlgili Bilgiler
 ## Takım Elemanları
