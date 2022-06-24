@@ -1,7 +1,9 @@
 # Bilgilendirme
 İlk kullandığımız repoda çıkan teknik aksaklıklardan dolayı bu repoda devam edildi. Diğer tüm commitler diğer repoda bulubuyor. Diğer repo linki;
 https://github.com/sedaersyy/4Strong1Emissary
-Oyun indirme linki: https://drive.google.com/drive/folders/1EQ9Kl12BQGRoC1gGmWVNsWhaCikVE3Ru?usp=sharing
+
+Oyun indirme linki: https://drive.google.com/drive/folders/1EQ9Kl12BQGRoC1gGmWVNsWhaCikVE3Ru?usp=sharing,
+
 Oyun tanıtım videosu: https://www.youtube.com/watch?v=2jypUYCxzd8
 # Takım İsm
 #### 4Strong1Emissary
